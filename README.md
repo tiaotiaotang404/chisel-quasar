@@ -1,0 +1,3 @@
+chisel工程目录
+sbt是用sbt构建工具进行verilog翻译
+mill是用mill构建工具进行verilog翻译
